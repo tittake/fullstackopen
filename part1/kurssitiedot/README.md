@@ -1,1 +1,1 @@
-# My very first React app to learn basic functionalities
+My very first React app to learn basic functionalities
